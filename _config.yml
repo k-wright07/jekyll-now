@@ -2,8 +2,8 @@ This #
 # This file contains configuration flags to customize your site
 #
 
-#This Space is Shaped by Words
-#Name: Letters N. Galaxy
+This Space is Shaped by Words
+Name: Letters N. Galaxy
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -13,7 +13,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
+ Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:horny cats
   email:circle jerk cult
